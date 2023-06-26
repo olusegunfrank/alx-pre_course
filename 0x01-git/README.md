@@ -1,1 +1,1 @@
-My file is ready
+The file is reay for update
